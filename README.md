@@ -9,6 +9,11 @@ It is a program that creates color photographs based on three black and white ph
 같은 구도에서 찍은 흑백 사진 3장을 기반으로 컬러 사진을 생성해내는 프로그램이며 학교 수업시간에 제출한 과제의 결과물입니다.
 <br><br>
 
+## Aim
+This program aim to finish the calculation as quickly as possible.<br>
+이 프로그램은 최대한 빠른 시간 내에 계산을 끝내는 것을 목표로 합니다.
+<br><br>
+
 ## Usage
 > You need opencv to use this program.<br>
 > 이 프로그램을 사용하기 위해서는 opencv가 필요합니다.<br>
